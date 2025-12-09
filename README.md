@@ -5,7 +5,7 @@ Apple Mac Technician | IT Consultant | Automation Engineer
 I help everyone get more from their tech, whether that's untangling a messy Microsoft 365 tenant, locking down email security, or building tools that make repetitive work disappear.
 
 
-What I Do?
+What I Do
 - Apple Mac & IT Consulting: My bread and butter. Device management, Google Workspace, M365 administration, security hardening, and the kind of troubleshooting that requires actually understanding how systems work.
 - Custom Automation: The bit you are here for. Python based tools that solve real problems: metadata extraction, transcription workflows, document processing. Not here to replace you, I'm here to give you more time to do what you want to! 
 
