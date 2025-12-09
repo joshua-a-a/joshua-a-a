@@ -1,5 +1,7 @@
 Hey, I'm Josh, 
+
 Apple Mac Technician | IT Consultant | Automation Engineer
+
 I help everyone get more from their tech, whether that's untangling a messy Microsoft 365 tenant, locking down email security, or building tools that make repetitive work disappear.
 
 What I Do?
