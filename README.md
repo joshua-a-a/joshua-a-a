@@ -1,4 +1,0 @@
-- Hi, welcome to my profile
-- Python & Data Science
-- Petitioning for dark mode everywhere! 
-- Fun fact: I have worked as a cobbler!
