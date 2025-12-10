@@ -9,10 +9,13 @@ What I Do
 - Apple Mac & IT Consulting: My bread and butter. Device management, Google Workspace, M365 administration, security hardening, and the kind of troubleshooting that requires actually understanding how systems work.
 - Custom Automation: The bit you are here for. Python based tools that solve real problems: metadata extraction, transcription workflows, document processing. Not here to replace you, I'm here to give you more time to do what you want to! 
 
+Current Portfolio: 
+- xScribe: Privacy focussed trasncriber powered by OpenAI's Whisper
 
 Currently Building: 
-- xScribe: OpenAI's Whisper powered transcription tool for macOS
 - PhotoMDE: Image metadata extraction and management
+- EZFTP: Automated FTP downloads: point, start transfer, receive files
+- PDFSplitter: Split large PDFs (100+ or even 1000+ pages) into structured files based on keywords or custom logic
 
 More commits coming soon, I'm finishing things properly before shipping.
 
