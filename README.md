@@ -3,11 +3,11 @@ Hey, I'm Josh,
 Apple Mac Specialist | IT Consultant | Automation Engineer
 
 What I Do
-- Apple Mac & IT Consulting: Device and Domain management, Apple Business Manager, Google Workspaces, M365 administration, security hardening, from living room to confernece room. 
-- Custom Automation: Streamline processes that take up your time, time you can spend reviewing the work rather than downloading it, or sending remmittences rather than reorganising them. 
+- Apple Mac & IT Consulting: Device and Domain management, Apple Business Manager, Google Workspaces, M365 administration, security hardening, from living room to conference room. 
+- Custom Automation: Streamline processes that take up your time, time you can spend reviewing the work rather than downloading it, or sending remittences rather than reorganising them. 
 
 Current Portfolio: 
-- xScribe: Privacy focussed trasncriber powered by OpenAI's Whisper
+- xScribe: Privacy focussed transcriber powered by OpenAI's Whisper
 - PhotoMDE: Image metadata extraction and management
 
 Currently Building: 
@@ -17,7 +17,7 @@ Currently Building:
 More commits coming soon.
 
 I Work With:
-Apple (macOS & iOS), Windows, Linux, Microsoft 365, Google Workspace, Cloud Storages, Domain Managemen, Python, Bash, PowerShell, C++, Swift, anything I can get my hands on... 
+Apple (macOS & iOS), Windows, Linux, Microsoft 365, Google Workspace, Cloud Storages, Domain Management, Python, Bash, PowerShell, C++, Swift, anything I can get my hands on... 
 
 Get In Touch! Reach me by email. 
 
